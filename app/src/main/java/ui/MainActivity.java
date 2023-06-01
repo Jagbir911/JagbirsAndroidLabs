@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
             s1.setChecked(selected);
             c1.setChecked(selected);
             r1.setChecked(selected);
-            Toast.makeText(getApplicationContext(),"The value is now: isChecked", Toast.LENGTH_SHORT).show();
+            Toast.makeText(getApplicationContext(),"The value is now:" + selected, Toast.LENGTH_SHORT).show();
         });
         imgbtn.setOnClickListener(new View.OnClickListener() {
             @Override
