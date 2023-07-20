@@ -2,4 +2,6 @@
     <string name="app_name">Jagbir\'s Android Labs</string>
     <string name="Hello_message">Hello Guys!</string>
     <string name="button_message">I\'m a Button</string>
+    <string name="message" translatable="false">Message goes here</string>
+    <string name="time" translatable="false">Time goes here</string>
 </resources>
